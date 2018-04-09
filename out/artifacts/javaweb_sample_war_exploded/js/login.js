@@ -5,6 +5,16 @@
 
 $(document).ready(function () {
 
+    $("#toRegister").click(function () {
+        $("#register").show();
+        $("#login").hide();
+    });
+
+    $("#toLogin").click(function () {
+        $("#register").hide();
+        $("#login").show();
+    });
+
     $("#submit").click(function () {
         var path=$("#abspath").val();
         var username = $("#username").val();

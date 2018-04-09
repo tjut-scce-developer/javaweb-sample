@@ -2,351 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b46971e8-af12-4758-8147-50d54031fef7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/commn/PageMsg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/dao/UsertableDao$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/dao/UsertableDao$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/dao/UsertableDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/po/UsertablePO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/servlet/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/util/DBTool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/util/DatabaseTableNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/util/JsonTool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/util/SelectSql.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/commons-beanutils-1.7.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/commons-fileupload-1.3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/commons-httpclient-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/commons-io-2.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/commons-lang-2.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/ezmorph-1.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/httpclient-4.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/httpcore-4.4.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/jackson-annotations-2.9.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/jackson-core-2.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/jackson-databind-2.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/json-lib-2.2.3-jdk15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/jspsmartupload.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/jxl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/poi-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/poi-examples-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/poi-excelant-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/poi-ooxml-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/poi-ooxml-schemas-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/poi-scratchpad-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/lib/slf4j-api-1.8.0-beta0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/ico/apple-touch-icon-114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/ico/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/ico/apple-touch-icon-57-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/ico/apple-touch-icon-72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/ico/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/img/backgrounds/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/img/backgrounds/1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/commn/PageMsg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/dao/UsertableDao$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/dao/UsertableDao$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/dao/UsertableDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/po/UsertablePO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/servlet/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/util/DBTool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/util/DatabaseTableNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/util/JsonTool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/util/SelectSql.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/commons-beanutils-1.7.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/commons-fileupload-1.3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/commons-httpclient-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/commons-io-2.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/commons-lang-2.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/ezmorph-1.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/httpclient-4.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/httpcore-4.4.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/jackson-annotations-2.9.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/jackson-core-2.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/jackson-databind-2.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/json-lib-2.2.3-jdk15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/jspsmartupload.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/jxl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/poi-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/poi-examples-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/poi-excelant-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/poi-ooxml-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/poi-ooxml-schemas-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/poi-scratchpad-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/lib/slf4j-api-1.8.0-beta0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/ico/apple-touch-icon-114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/ico/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/ico/apple-touch-icon-57-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/ico/apple-touch-icon-72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/ico/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/img/backgrounds/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/img/backgrounds/1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/commn/PageMsg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/dao/UsertableDao$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/dao/UsertableDao$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/dao/UsertableDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/po/UsertablePO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/servlet/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/util/DBTool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/util/DatabaseTableNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/util/JsonTool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/util/SelectSql.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/commn/PageMsg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/dao/UsertableDao$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/dao/UsertableDao$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/dao/UsertableDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/po/UsertablePO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/servlet/LoginServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/util/DBTool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/util/DatabaseTableNames.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/util/JsonTool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/util/SelectSql.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/javaweb-sample/TestSelect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/searchengine/TestSelect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.7.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-httpclient-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/httpclient-4.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/httpcore-4.4.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.9.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.9.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.2.3-jdk15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jspsmartupload.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jxl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-examples-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-excelant-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-ooxml-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-ooxml-schemas-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-scratchpad-3.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.8.0-beta0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/ico/apple-touch-icon-114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/ico/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/ico/apple-touch-icon-57-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/ico/apple-touch-icon-72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/ico/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/backgrounds/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/img/backgrounds/1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/javaweb_sample_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbScript/searchengine.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb-sample.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/classes/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/css/form-elements.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/js/jquery-1.11.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/js/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/js/jquery.backstretch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/js/jquery.backstretch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/js/placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/assets/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/js/ServerAddress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/js/jquery-1.9.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/js/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/page.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/classes/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/css/form-elements.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/js/jquery-1.11.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/js/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/js/jquery.backstretch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/js/jquery.backstretch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/js/placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/assets/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/js/ServerAddress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/js/jquery-1.9.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/js/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/searchengine_war_exploded/page.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/javaweb-sample/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/searchengine/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/commn/PageMsg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dao/UsertableDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/po/UsertablePO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/servlet/LoginServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/DBTool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/DatabaseTableNames.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/JsonTool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/SelectSql.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/TestSelect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/form-elements.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery-1.11.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.backstretch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/jquery.backstretch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/ServerAddress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery-1.9.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/page.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layer/theme/default/icon-ext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layer/theme/default/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layer/theme/default/loading-0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layer/theme/default/loading-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layer/theme/default/loading-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layer/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layer/mobile/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layer/mobile/need/layer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/layer/theme/default/layer.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/js/login.js" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/js/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/login.jsp" afterPath="$PROJECT_DIR$/out/artifacts/javaweb_sample_war_exploded/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/login.js" afterPath="$PROJECT_DIR$/web/js/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/login.jsp" afterPath="$PROJECT_DIR$/web/login.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -369,11 +39,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="126" column="91" lean-forward="false" selection-start-line="126" selection-start-column="82" selection-end-line="126" selection-end-column="91" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/js/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -387,6 +80,14 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/js/login.js" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -480,7 +181,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -495,10 +200,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servlet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -517,6 +218,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\githubtjut\javaweb-sample\web" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1008,15 +714,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523269307067</updated>
-      <workItem from="1523269312165" duration="666000" />
+      <workItem from="1523269312165" duration="4252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="666000" />
+    <option name="totallyTimeSpent" value="4252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1040,7 +747,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1079,6 +786,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/img/backgrounds/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/img/backgrounds/1@2x.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/ico/apple-touch-icon-57-precomposed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/ico/favicon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/ico/apple-touch-icon-144-precomposed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="126" column="91" lean-forward="false" selection-start-line="126" selection-start-column="82" selection-end-line="126" selection-end-column="91" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>

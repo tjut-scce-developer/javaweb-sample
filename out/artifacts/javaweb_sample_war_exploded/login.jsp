@@ -53,7 +53,9 @@
                 </div>
             </div>
             <div class="row">
-                <div id="login">
+
+                <%--登陆--%>
+                <div id="login" style="display: block">
                     <div class="col-sm-6 col-sm-offset-3 form-box">
                         <div class="form-top">
                             <div class="form-top-left">
@@ -67,17 +69,67 @@
                         <div class="form-bottom">
                             <div class="login-form">
                                 <div class="form-group">
-                                    <label class="sr-only" for="username">Username</label>
-                                    <input type="text" name="form-username" placeholder="Username..."
+                                    <label class="sr-only" for="username">用户名</label>
+                                    <input type="text" name="form-username" placeholder="用户名..."
                                            class="form-username form-control" id="username">
                                 </div>
                                 <div class="form-group">
-                                    <label class="sr-only" for="password">Password</label>
-                                    <input type="password" name="form-password" placeholder="Password..."
+                                    <label class="sr-only" for="password">密码</label>
+                                    <input type="password" name="form-password" placeholder="密码..."
                                            class="form-password form-control" id="password">
                                 </div>
                                 <button class="btn" id="submit">登陆</button>
-                                <button class="btn btn-warning" id="register">注册</button>
+                                <span>
+                                    没有帐号？<a href="javascript:void(0);" id="toRegister">点击注册</a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <%--注册--%>
+                <div id="register" style="display: none">
+                    <div class="col-sm-6 col-sm-offset-3 form-box">
+                        <div class="form-top">
+                            <div class="form-top-left">
+                                <h3>注册</h3>
+                                <p>请输入您的信息：</p>
+                            </div>
+                            <div class="form-top-right">
+                                <i class="fa fa-key"></i>
+                            </div>
+                        </div>
+                        <div class="form-bottom">
+                            <div class="login-form">
+                                <div class="form-group">
+                                    <label class="sr-only" for="you_username">用户名</label>
+                                    <input type="text" name="form-username" placeholder="用户名..."
+                                           class="form-username form-control" id="you_username">
+                                </div>
+                                <div class="form-group">
+                                    <label class="sr-only" for="you_password">密码</label>
+                                    <input type="password" name="form-password" placeholder="密码..."
+                                           class="form-password form-control" id="you_password">
+                                </div>
+                                <div class="form-group">
+                                    <label class="sr-only" for="you_repassword">确认密码</label>
+                                    <input type="password" name="form-password" placeholder="确认密码..."
+                                           class="form-password form-control" id="you_repassword">
+                                </div>
+                                <div class="form-group">
+                                    <label class="sr-only" for="you_tel">手机号码</label>
+                                    <input type="text" name="form-tel" placeholder="手机号码..."
+                                           class="form-username form-control" id="you_tel">
+                                </div>
+                                <div class="form-group">
+                                    <label class="sr-only" for="you_email">邮箱号码</label>
+                                    <input type="text" name="form-email" placeholder="邮箱号码..."
+                                           class="form-username form-control" id="you_email">
+                                </div>
+                                <button class="btn btn-warning" id="register_btn">点击注册</button>
+                                <span>
+                                    已有帐号，<a href="javascript:void(0);" id="toLogin">返回登陆</a>
+                                </span>
                             </div>
                         </div>
                     </div>
@@ -87,7 +139,7 @@
     </div>
 
 </div>
-<div class="copyrights">Collect from <a href="http://www.cssmoban.com/" title="网站模板">网站模板</a></div>
+<div class="copyrights">Collect from <a href="http://www.cssmoban.com/" title="天津理工大学野生队伍-javaweb网站模板">天津理工大学野生队伍-javaweb网站模板</a></div>
 
 
 <!-- Javascript -->
